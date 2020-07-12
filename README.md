@@ -8,6 +8,8 @@ Basic setup to make a laravel app in docker containers.
 
 `composer create-project --prefer-dist laravel/laravel blog`
 
+Switch to: https://www.youtube.com/watch?v=VBlFHuCzPgY
+
 `mv blog/* .`
 
 `rm blog -r`
