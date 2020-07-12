@@ -10,6 +10,6 @@ Basic setup to make a laravel app in docker containers.
 
 Switch to: https://www.youtube.com/watch?v=VBlFHuCzPgY
 
-`mv blog/* .`
+`mv blog/* blog/.* .`
 
 `rm blog -r`
