@@ -13,3 +13,5 @@ Switch to: https://www.youtube.com/watch?v=VBlFHuCzPgY
 `mv blog/* blog/.* .`
 
 `rm blog -r`
+
+In the .env file, set `DB_HOST = db` instead of 127.0.0.1, and set a DB_PASSWORD 
