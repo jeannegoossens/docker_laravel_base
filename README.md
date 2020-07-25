@@ -15,3 +15,9 @@ Switch to: https://www.youtube.com/watch?v=VBlFHuCzPgY
 `rm blog -r`
 
 In the .env file, set `DB_HOST = db` instead of 127.0.0.1, and set a DB_PASSWORD 
+
+`exit`
+
+`npm install`
+
+`npm run prod`
