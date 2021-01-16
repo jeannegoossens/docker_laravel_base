@@ -6,7 +6,7 @@ Basic setup to make a laravel app in docker containers.
 
 `docker-compose exec app bash`
 
-`composer create-project --prefer-dist laravel/laravel blog`
+`composer create-project --prefer-dist laravel/laravel:^7.0 blog`
 
 Switch to: https://www.youtube.com/watch?v=VBlFHuCzPgY
 
